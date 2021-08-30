@@ -14,3 +14,5 @@ W. Avy wants more information about temperature trends before opening the surf s
 ![Output](Dec_temp.PNG)
 
 # Summary:
+- Overall the data pulled for the surf and ice cream shop shows that the business should be sustainable year-round. The mean and max temperatures for June and December are stable throughout the year. 
+- Additional queries to perform to gather more weather data for June and December would be to get precipitation data for each June and December.  
