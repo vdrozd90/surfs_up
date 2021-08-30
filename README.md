@@ -4,4 +4,10 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 # Results: 
 
+### June:
+![Output](June_temp.PNG)
+
+### December:
+![Output](Dec_temp.PNG)
+
 # Summary:
